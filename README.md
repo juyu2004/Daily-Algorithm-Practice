@@ -7,3 +7,4 @@ Keep training the algorithm every day and keep going!
 
 1. 力扣热题100
 2. 牛客101
+3. 随机练习
